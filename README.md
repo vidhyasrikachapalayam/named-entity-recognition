@@ -150,7 +150,8 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![Screenshot 2024-05-06 111328](https://github.com/vidhyasrikachapalayam/named-entity-recognition/assets/119477817/822b537a-c1fb-41ff-93b1-123a46cd0216)
-![Uploading Screenshot 2024-05-06 111356.png…]()
+
+![Screenshot 2024-05-06 111356](https://github.com/vidhyasrikachapalayam/named-entity-recognition/assets/119477817/bbaf640b-085f-473b-ae52-57802e9a64d9)
 
 
 
